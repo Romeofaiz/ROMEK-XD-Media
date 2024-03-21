@@ -45,10 +45,10 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Secktor-bot' // Source URL
+var surl = 'https://wa.me/919341378016' // Source URL
 const number = '919341378016'
 var name = ' ROMEK XD'
-var body = '𝑅𝚯𝚳𝚵𝐊𝛨𝛯𝑅𝛯'
+var body = '𝑅𝚯𝚳𝚵𝐊 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/5358a9249b99cc9192daf.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
